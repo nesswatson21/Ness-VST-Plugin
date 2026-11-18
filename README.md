@@ -1,11 +1,7 @@
 #  NESS VST DEV
 **NESS VST DEV** is an alternative frontend for the  sample library. It does not require any kind of authentication, and contains all of the most important features of the regular desktop app (including drag-and-drop).
 
-<p align="center">
-  <a href="https://github.com/ascpixi/splicedd/releases/"><code>click here to download the latest release!</code></a>
-  <br><br>
-  <img src="./etc/screenshot.png">
-</p>
+
 
 Basic demo  | Drum loop demo 
 ------------|---------------
